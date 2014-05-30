@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 int infoH=100, disp=0, sh, sw, maxN, expN, FB=0, exLevel=5, goodLevel=20, resp;
-int hh, hw, gap, numT=12, trl=0, fS=50, numB=4, fixd=500, tlmt=5000,ll;
+int hh, hw, gap, numT=12, trl=0, fS=50, numB=4, fixd=500, tlmt=6000,ll;
 int[] bX= new int[4];
 int[] numL= {
   5, 5, 8, 5
